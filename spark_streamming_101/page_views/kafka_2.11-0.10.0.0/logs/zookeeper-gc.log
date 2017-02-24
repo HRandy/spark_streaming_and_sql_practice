@@ -1,0 +1,6 @@
+Heap
+ garbage-first heap   total 524288K, used 9216K [0x00000000dae00000, 0x00000000fae00000, 0x00000000fae00000)
+  region size 1024K, 10 young (10240K), 0 survivors (0K)
+ compacting perm gen  total 20480K, used 8046K [0x00000000fae00000, 0x00000000fc200000, 0x0000000100000000)
+   the space 20480K,  39% used [0x00000000fae00000, 0x00000000fb5dbaf0, 0x00000000fb5dbc00, 0x00000000fc200000)
+No shared spaces configured.
